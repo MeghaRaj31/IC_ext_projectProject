@@ -16,7 +16,3 @@ services:
   packages:
   - name: WmPublic
     version: 12.1.0.0.1315
-- serviceName: project.ic_ext_project.streaming.connections:EmbeddedMessaging
-  packages:
-  - name: IC_ext_projectProject
-    version: "1.0"
